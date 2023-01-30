@@ -15,7 +15,7 @@ const COMMANDS = {
   acknowledges:
     "<a> nothing in specific </a> ",
   contact:
-    "You can contact me on any of following links:<br><a href='https://t.me/Haridevp' class='success link'>Telegram</a>, <a href='https://www.instagram.com/_orupaavamjinn_/' class='success link'>Instagram</a>, <a href='https://www.twitter.com/Haridev__P/' class='success link'>Twitter</a>",
+    "You can contact me on any of following links:<br><a href='https://t.me/Haridevp' class='success link'>Telegram</a>, <a href='https://www.instagram.com/_.haridev__/' class='success link'>Instagram</a>, <a href='https://www.twitter.com/Haridev__P/' class='success link'>Twitter</a>",
 };
 
 const userInput = document.getElementById("userInput");
