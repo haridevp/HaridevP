@@ -9,7 +9,7 @@ const COMMANDS = {
   skills:
     '<span class="code">Skill:</span> Ethical Hacking, Pen-Testing, coding,..<br>',
   education:
-    "Currently pursuing Btech cse at Amrita vishwa vidhyapeetham coimbatore",
+    " Amrita vishwa vidhyapeetham coimbatore -Btech cse ,First year",
   resume: "<a href='./resume.pdf' class='success link'>resume.pdf</a>",
   experience: "No Experience😥",
   acknowledges:
