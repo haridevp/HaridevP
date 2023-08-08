@@ -1,1 +1,1 @@
-wwww.haridev.ml
+http://haridev.rf.gd
