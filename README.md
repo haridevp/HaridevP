@@ -1,1 +1,1 @@
-http://haridev.rf.gd
+https://haridevp.github.io/HaridevP/
