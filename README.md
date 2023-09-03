@@ -1,1 +1,1 @@
-https://haridevp.github.io/HaridevP/
+www.haridevp.me
