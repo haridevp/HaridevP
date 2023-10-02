@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👨‍💻 Personal Website [www.haridevp.me](www.haridevp.me)
+- 👨‍💻 Personal Website [https://haridevp.me](www.haridevp.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
