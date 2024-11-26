@@ -1,4 +1,4 @@
-[![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)](https://haridevp.me)
+[![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)]([https://haridevp.github.io/](https://haridevp.github.io/))
 <h1 align="center">Hi 👋, I'm Haridev</h1>
 <h3 align="center">A Cyber Security Enthusiasts</h3>
 <img align="right" alt="Coding" width="400" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif">
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👨‍💻 Personal Website [www.haridevp.me](https://haridevp.me)
+- 👨‍💻 Personal Website [Link](https://haridevp.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
