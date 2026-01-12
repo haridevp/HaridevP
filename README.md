@@ -15,7 +15,7 @@
 
 ## 🛠️ Skills (aka tools I Google less now)
 - Nmap, Burp Suite, Wireshark  
-- Kali Linux, Git, VMware
+- Kali Linux, Git
 - Python, SQL, JavaScript  
 
 ---
