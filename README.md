@@ -33,9 +33,9 @@
 ---
 
 ## 🔗 Find me here
-- 🌐 https://haridevp.me  
-- 💼 linkedin.com/in/haridevp  
-- 🧑‍💻 github.com/haridevp  
+- 🌐 https://haridevp.dev  
+- 💼 https://linkedin.com/in/haridevp  
+- 🧑‍💻 https://github.com/haridevp
 
 ---
 
