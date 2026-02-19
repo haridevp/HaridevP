@@ -17,8 +17,6 @@ I'm a security-focused developer with a curiosity for how systems work (and how 
 - 🔭 **Current Focus:** Deep diving into Network Security, Python automation, and secure architecture.
 - 🐛 **Philosophy:** *"It's not a bug, it's an undocumented feature... until I write a report about it."*
 - 🧠 **Learning:** Constantly expanding my knowledge in Reverse Engineering and secure coding practices.
-- ⚡ **Fun Fact:** I treat my `.env` files like my toothbrush—I never share them with anyone.
-
 ---
 
 ## 💻 Security Arsenal
