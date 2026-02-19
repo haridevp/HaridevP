@@ -39,13 +39,6 @@ I'm a security-focused developer with a curiosity for how systems work (and how 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
-## 📟 Terminal Stats
-
-![GitHubStats](https://github-readme-stats.vercel.app/api?username=haridevp&show_icons=true&theme=dark&hide_rder=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9)
-
-![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=haridevp&layout=compact&the=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9)
-
 ---
 
 <div align="center">
