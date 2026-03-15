@@ -10,7 +10,7 @@
 
 </div>
 
-## 💀 About Me
+## About Me
 
 I'm a security-focused developer with a curiosity for how systems work (and how they break). I bridge the gap between software engineering and cybersecurity, turning coffee into code and vulnerabilities into learning opportunities.
 
